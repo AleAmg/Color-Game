@@ -1,0 +1,72 @@
+body {
+    background-color:  #232323;
+}
+
+.square {
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    margin: 1.5%;
+    background-color: #232323;
+    border-radius: 10px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+/* css para probar el span de TITULO */
+/* #colorDisplay {
+    color: red;
+} */
+
+#message {
+    color: black;
+}
+
+#stripe {
+    background-color: rgb(128, 128, 128); 
+    height: 30px;
+    text-align: center;   
+    border-radius: 10px;
+}
+
+.mas{
+    display: none;
+}
+
+button{
+          border: none;
+          background-color: white;
+          text-transform: uppercase;
+          height:100%;
+          font-weight: 700;
+          color: steelblue;
+          letter-spacing: 1px;
+          font-size: inherit;
+          outline: none;
+          border-radius: 5px;
+}
+
+.selected{
+    background: steelblue;
+    color: white
+}
+
+button:hover{
+    color: white;
+    background: steelblue
+}
+
+#message{
+    display: inline-block;
+    width:20%
+}
+
