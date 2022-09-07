@@ -1,4 +1,4 @@
-# Color Game
+# Color Game (2021)
 
 Tercer proyecto realizado durante el curso introductorio de Plataforma 5.
 
